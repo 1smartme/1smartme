@@ -160,11 +160,11 @@
 
 📧 Email: **[payalshete2003@gmail.com](mailto:payalshete2003@gmail.com)**
 
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+💼 LinkedIn: www.linkedin.com/in/payal-shete
 
-🌐 Portfolio: https://YOUR-PORTFOLIO
+🌐 Portfolio: [https://YOUR-PORTFOLIO](https://payal-portfolio-psi.vercel.app/)
 
-💻 GitHub: https://github.com/YOUR_USERNAME
+💻 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/1smartme)
 
 ---
 
