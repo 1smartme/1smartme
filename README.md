@@ -162,9 +162,9 @@
 
 💼 LinkedIn: www.linkedin.com/in/payal-shete
 
-🌐 Portfolio: [https://YOUR-PORTFOLIO](https://payal-portfolio-psi.vercel.app/)
+🌐 Portfolio: https://payal-portfolio-psi.vercel.app
 
-💻 GitHub: [https://github.com/YOUR_USERNAME](https://github.com/1smartme)
+💻 GitHub: https://github.com/1smartme
 
 ---
 
